@@ -1,4 +1,4 @@
-// Objects  || Arrays || Intervals || TimeOuts
+// Objects
 
 
 // Objects 4types
